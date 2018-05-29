@@ -26,6 +26,10 @@ NAVIGAZIONE CON GAZEBO
 #VIDEO
 https://github.com/simonemene/homework2/blob/master/homework2_video.mp4
 
+#MATERIALE
+
+Le sedie e tavoli presenti nel mondo GAZEBO sono stati presi dal sito : https://free3d.com/
+
 
 
 #AUTORE
