@@ -15,11 +15,14 @@ NAVIGAZIONE CON RVIZ
 
 
 3. Aprire rviz per navigare in autonomo : 
-	export TURTLEBOT3_MODEL=waffle   rosrun rviz rviz -d `rospacl find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
+	export TURTLEBOT3_MODEL=waffle   rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
 
 NAVIGAZIONE CON GAZEBO
 
 1. Aprire il terminale ed eseguire il file setup.sh presente nel package e seguire le istruzioni presenti
+
+#VIDEO
+https://github.com/simonemene/homework2/blob/master/homework2_video.mp4
 
 
 
