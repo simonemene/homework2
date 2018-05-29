@@ -5,7 +5,7 @@ Università di Verona
 [Corsi di Laboratorio Ciberfisico]
 AA 2017-2018<br>
 
-![homework2](https://github.com/simonemene/homework2/blob/master/immagine/Lab-ciberfisico-banner-768x366.jpg)
+![homework2](https://github.com/simonemene/homework2/blob/master/immagine/1.png)
 
 NAVIGAZIONE CON RVIZ
 
