@@ -1,6 +1,8 @@
 cp aulaAlfa.world ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
 cp launch/homework_2.launch ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch/.
 cp -r modelli ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
+cp map/map.yaml ~/.
+cp map/map.pgm ~/.
 
 echo 1. Seleziona il modello del TURTLEBOT
 echo export TURTLEBOT3_MODEL=waffle
