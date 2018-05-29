@@ -5,7 +5,7 @@ Università di Verona
 [Corsi di Laboratorio Ciberfisico]
 AA 2017-2018<br>
 
-![homework2](https://github.com/simonemene/homework2/tree/master/immagine)
+![homework](https://github.com/simonemene/homework2/tree/master/immagine)
 
 NAVIGAZIONE CON RVIZ
 
