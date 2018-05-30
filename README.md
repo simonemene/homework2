@@ -1,4 +1,4 @@
-#homework_2
+homework_2
 
 Università di Verona
 
@@ -23,15 +23,15 @@ NAVIGAZIONE CON GAZEBO
 
 1. Aprire il terminale ed eseguire il file setup.sh presente nel package e seguire le istruzioni presenti
 
-#VIDEO
+VIDEO
 https://github.com/simonemene/homework2/blob/master/homework2_video.mp4
 
-#MATERIALE
+MATERIALE
 
 Le sedie e tavoli presenti nel mondo GAZEBO sono stati presi dal sito : https://free3d.com/
 
 
 
-#AUTORE
+AUTORE
 
 Simone Meneghetti
