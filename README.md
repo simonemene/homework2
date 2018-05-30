@@ -11,7 +11,7 @@ NAVIGAZIONE CON RVIZ
 
 1. Lanciare il file di launch : 
 	-export TURTLEBOT3_MODEL=waffle 
-	-roslaunch homework_2 homework_2.launch
+	-roslaunch homework2 homework_2.launch
 
 2. Caricare la mappa dell'aula alfa :
 	-roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
