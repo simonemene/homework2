@@ -10,14 +10,16 @@ AA 2017-2018<br>
 NAVIGAZIONE CON RVIZ
 
 1. Lanciare il file di launch : 
-	export TURTLEBOT3_MODEL=waffle  roslaunch homework_2 homework_2.launch
+	-export TURTLEBOT3_MODEL=waffle 
+	-roslaunch homework_2 homework_2.launch
 
 2. Caricare la mappa dell'aula alfa :
-	roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=home/catkin_ws/homework_2/map/map.yaml
+	-roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
 
 3. Aprire rviz per navigare in autonomo : 
-	export TURTLEBOT3_MODEL=waffle   rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
+	-export TURTLEBOT3_MODEL=waffle  
+	-rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
 
 NAVIGAZIONE CON GAZEBO
 
