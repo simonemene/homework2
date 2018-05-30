@@ -9,8 +9,8 @@ echo NAVIGAZIONE CON GAZEBO
 echo 1. Seleziona il modello del TURTLEBOT
 echo export TURTLEBOT3_MODEL=waffle
 
-echo 2. Lancia il homework_2 con il turtlebot:
-echo roslaunch homework_2 homework_2.launch
+echo 2. Lancia il homework2 con il turtlebot:
+echo roslaunch homework2 homework_2.launch
 
 echo 3. Adesso lancia il TURTLEBOT in modalità navigazione autonoma con 
 echo roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
