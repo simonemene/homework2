@@ -22,5 +22,5 @@ echo 1. Lanciare il file di launch : export TURTLEBOT3_MODEL=waffle roslaunch ho
 
 echo 2. Caricare la mappa dell aula alfa : roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
-echo 3. Aprire rviz per navigare in autonomo : export TURTLEBOT3_MODEL=waffle rosrun rviz rviz -d`rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
+echo 3. Aprire rviz per navigare in autonomo : export TURTLEBOT3_MODEL=waffle rosrun rviz rviz -d rospack find turtlebot3_navigation /rviz/turtlebot3_nav.rviz
 
