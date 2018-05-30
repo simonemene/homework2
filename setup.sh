@@ -18,7 +18,7 @@ echo roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
 
 echo NAVIGAZIONE CON RVIZ
 
-echo 1. Lanciare il file di launch : export TURTLEBOT3_MODEL=waffle roslaunch homework_2 homework_2.launch
+echo 1. Lanciare il file di launch : export TURTLEBOT3_MODEL=waffle roslaunch homework2 homework_2.launch
 
 echo 2. Caricare la mappa dell aula alfa : roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
